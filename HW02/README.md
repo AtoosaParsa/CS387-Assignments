@@ -8,7 +8,7 @@ numpy
 
 ## Usage
 ```bash
-python question3.py
+python3 question3.py
 ```
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
