@@ -5,9 +5,7 @@ Created on Wed Feb 17 12:20:49 2021
 
 @author: atoosa
 """
-import sys
 import numpy as np
-import pandas as pd
 
 # uniform distribution
 def uniformDistr(a, b, size):
