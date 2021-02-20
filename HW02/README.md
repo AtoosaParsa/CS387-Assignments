@@ -1,1 +1,14 @@
-This is the code for Question 3 in HW02, written in Python.
+# Data  Science II - Assignment 02  - Question 3
+
+## Dependencies
+```bash
+Python
+numpy
+```
+
+## Usage
+```bash
+python question3.py
+```
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
